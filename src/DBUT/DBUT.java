@@ -20,7 +20,7 @@ public class DBUT {
 	 * @author DBUtil连接数据库 全局使用常量driver，driverManager
 	 */
 	private static final String DRIVER = "com.mysql.jdbc.Driver";
-	private static final String URL = "jdbc:mysql://localhost:3306/lcj??useUnicode=true&characterEncoding=UTF-8&useOldAliasMetadataBehavior=true&useAffectedRows=true&serverTimezone=GMT";
+	private static final String URL = "jdbc:mysql://localhost:3306/employee_management??useUnicode=true&characterEncoding=UTF-8&useOldAliasMetadataBehavior=true&useAffectedRows=true&serverTimezone=GMT";
 	private static final String USRE = "root";
 	private static final String PASSWORD = "root";
 
